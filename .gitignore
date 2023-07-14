@@ -3,15 +3,6 @@ __pycache__
 backend/database/mysql_config.py
 backend/database/postgresql_config.py
 public/
-frontend/*.git/
-frontend/*.gitignore
 package-lock.json
-frontend/README.md
+frontend_/
 poetry.lock
-frontend/src/App.css
-frontend/src/App.test.js
-frontend/src/index.css
-frontend/src/index.js
-frontend/src/logo.svg
-frontend/src/reportWebVitals.js
-frontend/src/setupTest.js

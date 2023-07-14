@@ -6,7 +6,7 @@ public/
 frontend/*.git/
 frontend/*.gitignore
 package-lock.json
-frontend/README.node_modules
+frontend/README.md
 poetry.lock
 frontend/src/App.css
 frontend/src/App.test.js

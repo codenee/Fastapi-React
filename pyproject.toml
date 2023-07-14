@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "fastapi-webmusic"
+version = "0.1.0"
+description = "FastAPI Test"
+authors = ["codenee <tanedoran@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "fastapi_webmusic"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.100.0"
+pytest = "^7.4.0"
+pydantic = "^2.0.2"
+postgres = "^4.0"
+uvicorn = "^0.22.0"
+alembic = "^1.11.1"
+axios = "^0.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
